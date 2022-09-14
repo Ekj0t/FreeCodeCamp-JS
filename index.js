@@ -53,3 +53,7 @@ var TitleCaseOver;
 StUdLycapVaR = 10;
 PRoperCamelCase = "A String";
 TitleCaseOver = 9000;
+
+// Adding Numbers
+var sum = 10 + 10;
+console.log(sum)
