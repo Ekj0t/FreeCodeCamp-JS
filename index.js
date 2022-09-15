@@ -88,3 +88,19 @@ var myVar = 11;
     // short method
     myVar--;
 
+//Decimals
+var ourDecimal = 5.7;
+
+var ourDecimal = 0.009;
+
+// Multiplying Decimals
+var Decimalproduct = 2.0 * 2.5;
+console.log(Decimalproduct)
+
+// Dividing Decimals
+var Decimaldivision = 4.4 / 2.0;
+console.log(Decimaldivision)
+
+// Finding Remainder
+var Remainder;
+Remainder = 11 % 3;
