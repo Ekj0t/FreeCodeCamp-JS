@@ -57,3 +57,34 @@ TitleCaseOver = 9000;
 // Adding Numbers
 var sum = 10 + 10;
 console.log(sum)
+
+// Subtracting Numbers
+var subtract = 40 - 17;
+console.log(subtract)
+
+// Multiplying Numbers
+var product = 10 * 19;
+console.log(product)
+
+// Dividing Numbers
+var product = 66 / 33;
+console.log(product)
+
+// Incrementing a Number
+var MyVar = 87;
+
+    // long method
+    MyVar = MyVar + 1;
+
+    // short method
+    MyVar++;
+
+// Decrementing a Number
+var myVar = 11;
+
+    // long method
+    myVar = myVar - 1;
+
+    // short method
+    myVar--;
+
